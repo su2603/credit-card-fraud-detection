@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection System: Technical Documentation
+# Credit Card Fraud Detection System: Technical 
 
 ## 1. Introduction
 
